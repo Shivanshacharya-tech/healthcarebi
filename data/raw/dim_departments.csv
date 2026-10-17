@@ -1,0 +1,8 @@
+department_id,department_name,department_type,bed_capacity,nurse_to_patient_ratio,floor_number
+DEP-ED,Emergency Department,Emergency,45,1:3,1
+DEP-ICU,Intensive Care Unit (ICU),Critical Care,30,1:1,2
+DEP-MEDSURG,Medical-Surgical Ward,Inpatient,140,1:5,3
+DEP-CARD,Cardiology / CCU,Step-Down Care,50,1:3,4
+DEP-PED,Pediatric Inpatient Unit,Inpatient,40,1:4,2
+DEP-ORTHO,Orthopedics & Trauma Ward,Inpatient,55,1:4,5
+DEP-ONC,Oncology & Palliative Care,Inpatient,40,1:4,6

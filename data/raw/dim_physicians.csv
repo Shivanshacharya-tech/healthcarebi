@@ -1,0 +1,15 @@
+physician_id,physician_name,specialty,primary_shift,years_experience
+DOC-101,Dr. Marcus Vance,Emergency Medicine,Evening (15:00-23:00),23
+DOC-102,Dr. Sarah Chen,Emergency Medicine,Night (23:00-07:00),6
+DOC-103,Dr. Elena Rostova,Emergency Medicine,Morning (07:00-15:00),3
+DOC-104,Dr. David Patel,Emergency Medicine,Evening (15:00-23:00),11
+DOC-105,Dr. Emily Howard,Emergency Medicine,Night (23:00-07:00),10
+DOC-106,Dr. James Thorne,Emergency Medicine,Morning (07:00-15:00),10
+DOC-107,Dr. Priya Sharma,Critical Care / Trauma,Evening (15:00-23:00),7
+DOC-108,Dr. Alexander Wu,Critical Care / Trauma,Night (23:00-07:00),6
+DOC-109,Dr. Robert Gomez,Cardiology,Morning (07:00-15:00),24
+DOC-110,Dr. Rachel Weiss,Cardiology,Evening (15:00-23:00),20
+DOC-111,Dr. Anthony Rossi,Internal Medicine,Night (23:00-07:00),5
+DOC-112,Dr. Jennifer Brooks,Internal Medicine,Morning (07:00-15:00),21
+DOC-113,Dr. Karen Mitchell,Pediatrics,Evening (15:00-23:00),16
+DOC-114,Dr. Liam O'Connor,Orthopedic Surgery,Night (23:00-07:00),4

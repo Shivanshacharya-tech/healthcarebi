@@ -1,0 +1,48 @@
+{
+  "name": "VitalFlow Healthcare Executive Theme",
+  "dataColors": [
+    "#0B2545",
+    "#134074",
+    "#009688",
+    "#107C41",
+    "#FFB703",
+    "#FB8500",
+    "#D90429",
+    "#6C757D"
+  ],
+  "background": "#F8F9FA",
+  "foreground": "#0B2545",
+  "tableAccent": "#134074",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "outspacePane": [
+          {
+            "backgroundColor": { "solid": { "color": "#F8F9FA" } }
+          }
+        ],
+        "visualHeader": [
+          {
+            "titleFontFamily": "Segoe UI Semibold",
+            "titleFontSize": 12,
+            "titleColor": { "solid": { "color": "#0B2545" } }
+          }
+        ],
+        "card": [
+          {
+            "labels": {
+              "color": { "solid": { "color": "#0B2545" } },
+              "fontSize": 24,
+              "fontFamily": "Segoe UI"
+            },
+            "categoryLabels": {
+              "color": { "solid": { "color": "#6C757D" } },
+              "fontSize": 10,
+              "fontFamily": "Segoe UI"
+            }
+          }
+        ]
+      }
+    }
+  }
+}
